@@ -1,5 +1,9 @@
 html{
-    background-color: rgb(208, 200, 191);
+    background-image: url(https://i.pinimg.com/564x/61/cb/6c/61cb6c8b0b88d4b9b61f07ff8a9859b3.jpg) ;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     
     #intro1{
 
