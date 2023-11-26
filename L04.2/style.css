@@ -86,14 +86,7 @@ p {
         width: 100%;
         height:auto;
         float: none;
-        h1 {
-            font-size: 70%;
-        }
-    
-        h2,
-        p {
-            font-size: 50%; 
-        }
+        
     }
 }
 
