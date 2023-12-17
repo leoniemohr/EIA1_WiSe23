@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #e4d4cc; 
+    color: #3f280e;
+    box-sizing: border-box;
+    font-size: 16px;
+    
+}
+
+.outer-container {
+    border: 2px solid #8b4513;
+    padding: 20px;
+    text-align: center; 
+}
+
+.inputForm_group {
+    text-align: center;
+    background-color: #e4d4cc;
+    padding: 10px;
+    margin-top: 60px;
+}
+
+.inputForm_field {
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #e4d4cc;
+    border: 0.5px solid #563417;
+    margin-top: 10px;
+}
